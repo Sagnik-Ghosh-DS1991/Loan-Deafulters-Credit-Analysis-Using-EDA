@@ -1,4 +1,4 @@
-# Loan-Deafulters-Credit-Analysis-Using-EDA
+# Loan-Defaulters-Credit-Analysis-Using-EDA
 
 ### Business Understanding:
 
